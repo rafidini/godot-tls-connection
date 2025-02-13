@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://cjmkcq48l8yo8"]
+
+[ext_resource type="Script" path="res://tls_server.gd" id="1_23cha"]
+
+[node name="TlsServer" type="Node"]
+script = ExtResource("1_23cha")
